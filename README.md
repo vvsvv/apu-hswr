@@ -30,5 +30,5 @@ Our results show a **49.63% drop in coherence** for a mere 2% frequency shift, d
 ### Installation
 ```bash
 git clone https://github.com/vvsvv/apu-hswr.git
-cd APU-HSWR
+cd apu-hswr
 pip install -r requirements.txt
