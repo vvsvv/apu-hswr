@@ -9,12 +9,6 @@ env/
 venv/
 ENV/
 
-# Result Images (Keep your repo clean)
-*.png
-*.jpg
-*.jpeg
-*.pdf
-
 # OS files
 .DS_Store
 Thumbs.db
